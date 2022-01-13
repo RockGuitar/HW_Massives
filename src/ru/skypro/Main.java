@@ -10,7 +10,6 @@ public class Main {
         arrayOne[2] = 3;
 
         double[] arrayTwo = {1.57, 7.654, 9.986};
-
         long[] arrayThree = new long[]{249, 978655, 12315, 150, 1};
 
         //Задание 2
